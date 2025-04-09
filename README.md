@@ -23,6 +23,9 @@
 ## 📸 Vista previa
 ![image](https://github.com/user-attachments/assets/67b25e78-f356-4026-8d35-a56d0300e499)
 
+![image](https://github.com/user-attachments/assets/c60ea644-d210-459b-83b2-f3af149e92f3)
+
+
 > ¡Pronto subiré capturas de pantalla del resultado final!  
 
 ---
