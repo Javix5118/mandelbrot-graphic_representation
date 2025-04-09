@@ -1,6 +1,6 @@
 # Fractales en Python con Turtle 🐢
 
-¡Hola! Soy **Javier**, este es un miniproyecto que surgió meramente por intentar descubrir que podía hacer con los números complejos y pues... ¡me topé con los **fractales** ! Concretamente con el conjunto de Mandebrot, se ha creado usando **Python** y la librería `turtle` para dibujar el fractal.
+¡Hola! Soy **Javier**, este es un miniproyecto que surgió meramente por intentar descubrir que podía hacer con los números complejos y pues... ¡me topé con los **fractales** ! Concretamente con el conjunto de Mandelbrot, se ha creado usando **Python** y la librería `turtle` para dibujar el fractal.
 
 ---
 
