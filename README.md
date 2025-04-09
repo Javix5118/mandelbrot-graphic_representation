@@ -21,6 +21,7 @@
 ---
 
 ## 📸 Vista previa
+![image](https://github.com/user-attachments/assets/67b25e78-f356-4026-8d35-a56d0300e499)
 
 > ¡Pronto subiré capturas de pantalla del resultado final!  
 
